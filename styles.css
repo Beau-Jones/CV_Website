@@ -2,6 +2,7 @@ body {
     height: 100%;
     width: 100%;
     background-image: radial-gradient(circle, white, rgb(0, 0, 0));
+    background-attachment: fixed;
 }
 
 /* Name, title and icon in the center of page */
